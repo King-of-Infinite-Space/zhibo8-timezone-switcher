@@ -2,7 +2,7 @@
 // @name         直播吧时区转换
 // @namespace    http://tampermonkey.net/
 // @version      0.9
-// @description  自动将直播吧显示的比赛时间转换到当地时间
+// @description  自动将直播吧显示的比赛时间转换为用户所在地的时间
 // @author       PLH
 // @match        http://www.zhibo8.cc/
 // @grant        none
